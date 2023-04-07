@@ -1,3 +1,3 @@
 # mango-framework
 
-<description of the repo here... blah>
+...description of the repo here... blah
